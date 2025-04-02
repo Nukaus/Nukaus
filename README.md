@@ -1,5 +1,36 @@
-<h1>Seja bem-vindo 👋</h1>
-<p>Estudante de desenvolvimento de sistemas, atualmente focado em desenvolvimento web.</p>
-<p>Realizei alguns projetos pessoais como uma calculadora de Tempo de Serviço em um website, 
-  um website que utilizo como portifólio (ainda em desenvolvimento), fiz também um projeto de gestão de ativos empresáriais.</p>
-<h1>Minhas redes</h1>
+# Seja bem-vindo👋  
+
+💻 Sou estudante de Desenvolvimento de Sistemas, com foco atual em desenvolvimento web.
+
+Desenvolvi projetos pessoais, incluindo uma Calculadora de Tempo de Serviço para web, um portfólio online (em desenvolvimento) e um sistema de gestão de ativos empresariais.
+
+
+## 🌐 Redes Sociais  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![https://www.instagram.com/_gx.cristiano/](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil/)
+
+---
+
+## 🚀 Tecnologias que domino  
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+📫 **Entre em contato**:  
+✉️ Email: cristiano200203@gmail.com  
+🔗 [Portfólio](https://seu-portfolio.com)  
+
+---
+
+⭐ **Se gostou, não esqueça de dar um star nos meus repositórios!** 🚀
+
+
